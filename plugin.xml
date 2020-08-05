@@ -6,7 +6,7 @@
     <name>cordova-plugin-square-reader-ios</name>
 
     <platform name="ios">
-        <dependency id="cordova-plugin-add-swift-support" version="^1.7.2"/>
+        <dependency id="cordova-plugin-add-swift-support"/>
 
         <js-module name="CordovaSquareReader" src="www/CordovaSquareReader.js">
             <clobbers target="CordovaSquareReader" />
